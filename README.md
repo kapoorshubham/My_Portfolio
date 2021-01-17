@@ -14,10 +14,10 @@
 The purpose of this project was for me to try out Djano for the first time as I have never used it before and I have been able to build this simple application in a small timeframe of 2 days. I found the experience to be fun and got to learn a lot of new things. I'm sure I would learn more as I dwell deeper into Django in the coming months.
 
 ## Screenshots
-![Example screenshot](./screenshots/s1.png)
-![Example screenshot](./screenshots/s2.png)
-![Example screenshot](./screenshots/s3.png)
-![Example screenshot](./screenshots/s4.png)
+![Screenshot_1](./screenshots/s1.png)
+![Screenshot_2](./screenshots/s2.png)
+![Screenshot_3](./screenshots/s3.png)
+![Screenshot_4](./screenshots/s4.png)
 
 ## Technologies
 * Django
