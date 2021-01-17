@@ -19,6 +19,7 @@ The purpose of this project was for me to try out Djano for the first time as I 
 ![Screenshot_2](./screenshots/s2.png)
 ![Screenshot_3](./screenshots/s3.png)
 ![Screenshot_4](./screenshots/s4.png)
+![Screenshot_5](./screenshots/s5.png)
 
 ## Technologies
 * Django
